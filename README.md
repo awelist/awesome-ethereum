@@ -44,10 +44,11 @@
 ## Ethereum Development
 
 - **[Ethereum Developer Portal](https://ethereum.org/en/developers/)** - A hub of resources for Ethereum developers.
-- **[Truffle Suite](https://trufflesuite.com/)** - A popular development framework for building and testing smart contracts.
+- **[Foundry](https://www.getfoundry.sh/)** - A popular development framework for building and testing smart contracts.
 - **[Hardhat](https://hardhat.org/)** - A development environment for compiling, testing, and debugging Ethereum smart contracts.
 - **[Remix IDE](https://remix.ethereum.org/)** - A browser-based IDE for writing, compiling, and deploying smart contracts.
-- **[Ganache](https://trufflesuite.com/ganache/)** - A local Ethereum blockchain for testing and development.
+- **[Foundry Anvil](https://www.getfoundry.sh/anvil)** - A local Ethereum blockchain for testing and development.
+- **[Foundry Anvil Testcontainers](https://hellalabs.dev/foundryanvil-testcontainers-nodejs/)** - A framework for e2e and integration tests for smart contracts.
 
 ## Smart Contracts
 
